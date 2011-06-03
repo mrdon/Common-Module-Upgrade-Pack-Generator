@@ -1,0 +1,12 @@
+{
+	"key": 			"cmup-generator",
+	"name":			"Common Module Upgrade Pack Generator",
+	"description":	"Automates the creation of the monthly Common Module Upgrade Pack",
+	"version":		"2",
+	
+	"vendor": {	"name": "Don Brown",
+			     "url": "http://github.com/mrdon/confluence-inline-comment",
+		       "email": "mrdon@twdata.org" },
+
+    "screenshot":   "screenshot.png"
+}

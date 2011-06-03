@@ -1,0 +1,12 @@
+/*
+	Web Items allow you to insert navigation items (menu items, tabs etc) into 
+	various places within the product interface.
+ */
+[
+    {   "section" : "system.user/user-preferences",
+        "label"   : "Create CMUP",
+        "url"     : "/nopage.action",
+        "cssId"   : "cmup-create",
+        "weight"  : 30}
+]
+
