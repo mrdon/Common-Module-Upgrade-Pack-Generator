@@ -7,6 +7,5 @@
 	"vendor": {	"name": "Don Brown",
 			     "url": "http://github.com/mrdon/cmup-generator",
 		       "email": "mrdon@twdata.org" },
-
     "screenshot":   "screenshot.png"
 }
